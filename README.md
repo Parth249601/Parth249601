@@ -9,7 +9,7 @@ I build at the intersection of **machine learning** and **backend systems** — 
 
 - **ML / AI** — deep learning, computer vision, NLP, and from-scratch model implementations
 - **Backend** — APIs, auth systems, spatial ETL pipelines, and data-heavy services
-- Currently exploring neural network interpretability and applied ML
+- Currently exploring how AI can be integrated in day to day systems.
 
 ---
 
@@ -27,14 +27,6 @@ I build at the intersection of **machine learning** and **backend systems** — 
 - **KAN from scratch** — a full Kolmogorov–Arnold Networks library with learnable B-spline activations and symbolic regression
 - **Avian Vision** — fine-grained classifier hitting 83% top-1 across 200 bird species
 - **WhatsApp Chat Analyzer** — RAG-powered Q&A over chat history with an interactive dashboard
-
----
-
-### Stats
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthbansal&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbansal&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff)
 
 ---
 
