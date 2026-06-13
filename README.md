@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Parth 👋
 
-<!--
-**Parth249601/Parth249601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical Engineering @ IIT Bombay, with a dual minor in CS and AI & Data Science.
+I build at the intersection of **machine learning** and **backend systems** — from KAN libraries written from scratch to production auth and spatial-data pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- **ML / AI** — deep learning, computer vision, NLP, and from-scratch model implementations
+- **Backend** — APIs, auth systems, spatial ETL pipelines, and data-heavy services
+- Currently exploring neural network interpretability and applied ML
+
+---
+
+### Tech I use
+
+**Languages** &nbsp;·&nbsp; Python, C++
+**ML / Data** &nbsp;·&nbsp; PyTorch, TensorFlow, OpenCV, scikit-learn, Pandas, NumPy
+**Backend** &nbsp;·&nbsp; PostgreSQL / PostGIS, Redis, LangChain, Streamlit
+**Tools** &nbsp;·&nbsp; Git, ROS2, Docker
+
+---
+
+### A few things I've built
+
+- **KAN from scratch** — a full Kolmogorov–Arnold Networks library with learnable B-spline activations and symbolic regression
+- **Avian Vision** — fine-grained classifier hitting 83% top-1 across 200 bird species
+- **WhatsApp Chat Analyzer** — RAG-powered Q&A over chat history with an interactive dashboard
+
+---
+
+### Stats
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthbansal&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthbansal&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff)
+
+---
+
+### Reach me
+
+[LinkedIn](www.linkedin.com/in/parth-bansal-a36b94332) &nbsp;·&nbsp; [Email](mailto:bansalparth48@email.com)
