@@ -32,4 +32,4 @@ I build at the intersection of **machine learning** and **backend systems** — 
 
 ### Reach me
 
-[LinkedIn](www.linkedin.com/in/parth-bansal-a36b94332) &nbsp;·&nbsp; [Email](mailto:bansalparth48@email.com)
+[LinkedIn](https://linkedin.com/in/parth-bansal-a36b94332) &nbsp;·&nbsp; [Email](mailto:bansalparth48@email.com)
